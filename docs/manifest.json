@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "package": "mds-launch-wall",
+  "type": "extension",
+  "version": "0.2.0",
+  "channel": "main",
+  "title": "Launch Wall",
+  "docs": [
+    {
+      "id": "usage",
+      "title": "Launch Wall",
+      "file": "USAGE.md",
+      "audience": ["admin", "support", "developer", "legal-review"],
+      "topics": ["extensions", "commerce", "payments", "privacy", "moderation", "rest-api", "legal"]
+    }
+  ]
+}
