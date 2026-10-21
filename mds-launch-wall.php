@@ -36,7 +36,7 @@ if (!defined('ABSPATH')) {
 }
 
 if (!defined('MDS_LAUNCH_WALL_VERSION')) {
-    define('MDS_LAUNCH_WALL_VERSION', '0.2.0');
+    define('MDS_LAUNCH_WALL_VERSION', '0.2.1');
 }
 
 if (!defined('MDS_LAUNCH_WALL_FILE')) {
