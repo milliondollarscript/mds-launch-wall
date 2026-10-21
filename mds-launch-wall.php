@@ -3,7 +3,7 @@
  * Plugin Name: Million Dollar Script - Launch Wall
  * Plugin URI: https://milliondollarscript.com/extensions/launch-wall
  * Description: Sell and moderate paid launch slots and featured placements for products, apps, books, events, and campaigns.
- * Version: 0.2.0
+ * Version: 0.2.1
  * Author: Million Dollar Script
  * Author URI: https://milliondollarscript.com
  * Text Domain: mds-launch-wall
